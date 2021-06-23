@@ -8,6 +8,7 @@
 **Required Libaries:**
 
 1. [Optimized high speed nRF24L01+](https://nrf24.github.io/RF24/)
+2. [Pyside2](https://pypi.org/project/PySide2/)
 
 **Description:**
 
