@@ -7,8 +7,8 @@
 
 **Required Libaries:**
 
-1. [Optimized high speed nRF24L01+](https://nrf24.github.io/RF24/)
-2. [Pyside2](https://pypi.org/project/PySide2/)
+1. [Circuit Python NRF24L01 Library](https://circuitpython-nrf24l01.readthedocs.io)
+2. [Pyside2](https://pypi.org/project/PySide2/)  [optional for GUI]
 
 **Description:**
 
