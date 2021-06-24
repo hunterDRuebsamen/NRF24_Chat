@@ -13,3 +13,9 @@
 **Description:**
 
 This is a text-to-text chat, similar to skype, that sends messages across RF using two NRF24 modules to send and recieve messages. Code is written in Python.
+
+Below is a circuit diagram for connecting the module to the Raspberry pi
+
+**(Warning, each module has its own pinout, it is your responsibility to verify the pins)**
+
+![Circuit Diagram](img/nrfchat.jpg)
