@@ -8,7 +8,7 @@
 **Required Libaries:**
 
 1. [Circuit Python NRF24L01 Library](https://circuitpython-nrf24l01.readthedocs.io)
-2. [Pyside2](https://pypi.org/project/PySide2/)  [optional for GUI]
+2. [GUI Zero](https://lawsie.github.io/guizero/start/)  [optional for GUI]
 
 **Description:**
 
